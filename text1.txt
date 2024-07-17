@@ -1,1 +1,2 @@
-Ovo je tekst u mom fajlu text1.txt.
+Tekst je izmenjen!
+
